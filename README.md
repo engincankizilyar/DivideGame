@@ -17,5 +17,5 @@ Puanlama sorunun görece olarak zorluğuna göre ayarlanmıştır.
 ve geri kalan soruların cevapları da 15 puan olacak şekilde hazırlanmıştır.
 
 Aynı zamanda sol üst panelde oyuncunun haklarını simgeleyen 3 adet kalp bulunmaktadır. Bu kalpler oyuncu hata yaptıkça azalmaktadır.
-hiç kalp kalmadığı zaman ya da oyuncu tüm soruları doğru bilip kutucuklardaki tüm resimleri açtığı takdirde oyun bittiğini bildiren panel açılmaktadır.
+hiç kalp kalmadığı zaman ya da oyuncu tüm soruları doğru bilip kutucuklardaki tüm resimleri açtığı takdirde oyunun bittiğini bildiren panel açılmaktadır.
 bu panelde de oyuncu isteğine göre oyuna tekrar başlayabilir ya da tekrar menuLevel ekrarnına dönüş yapıp oyundan çıkabilir
