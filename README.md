@@ -1,5 +1,6 @@
 # DivideGame
 Unity'de kendimi geliştirmek için yaptığım projedir.
+
 Oyunumuzun menuLevel ekranında 2 adet seçeneğimiz bulunmaktadır "oyundan çıkış" ve "yeni oyuna başla" seçenekleri.
 
 Oyundan çıkış, isminden de anlaşılacağı üzre uygulamayı sonlandırmaktadır.
